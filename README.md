@@ -19,7 +19,7 @@ This app features:
 
 ## 🖼️ Preview
 
-![React Counter App Preview]([https://raw.githubusercontent.com/Dhiraj-1418/ReactProjects/main/preview.png](https://drive.google.com/file/d/1rXFGik8Bln-aAYDksm5lC6KDhRX_E8-m/view?usp=sharing))
+![React Counter App Preview](https://drive.google.com/file/d/1rXFGik8Bln-aAYDksm5lC6KDhRX_E8-m/view?usp=sharing)
 
 > _Make sure to upload a screenshot named `preview.png` to your GitHub repo root directory for this to display correctly._
 
