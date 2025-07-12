@@ -88,18 +88,7 @@ npm start
 🙋 Author
 Dhiraj Yadav
 🔗 GitHub Profile
-
-
-
-
-
-
-
-
-
-
-
-
+<hr/>
 
 # 🧩 React API Data Listing
 
